@@ -1,0 +1,43 @@
+Installation Steps
+1. Download zip file and Unzip file on your local server.
+2. Put this file inside "c:/xamp/htdocs/" .
+3. Database Configuration
+Open phpmyadmin
+Create Database named db_healthcare.
+Import database db_healthcare.sql from downloaded folder(inside database)
+4. Open Your browser put inside "http://localhost/PHP-Doctor-Appointment-System/"
+
+Admin Login Details
+Login Id: 123
+Password: 123
+
+Brief overview of the technology:
+Front end: HTML, CSS, JavaScript
+
+HTML: HTML is used to create and save web document. E.g. Notepad/Notepad++
+CSS : (Cascading Style Sheets) Create attractive Layout
+Bootstrap : responsive design mobile freindly site
+JavaScript: it is a programming language, commonly use with web browsers.
+Back end: PHP, MySQL
+
+PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages, in HTML, XML, or other document types, as per client request. PHP is open source software.
+MySQL: MySql is a database, widely used for accessing querying, updating, and managing data in databases.
+
+The Online Doctor Appointment System is an automated system that is developed using PHP, CSS, JavaScript and MySQL for the database. The main purpose of this Online Doctor Appointment System is to help both patients and administrative staffs during the booking process in the hospital. This can save most of their time and the staffs have more time dealing with other tasks.
+
+About the Online Doctor Appointment System
+Using this Online Doctor Appointment System, it will be easier for the patient to book an appointment without calling the hospital. They can now schedule the time of booking by visiting the website. The Online Doctor Appointment System contains an admin side and the user side. When you register as a user or patient, you can now book for an appointment by selecting the time and date. Then the admin will confirm the booking and records it in the system. The admin plays an important role in this Online Doctor Appointment System because he is the one responsible in managing the schedules, manage patient records, manage appointment time, and manage treatment facilities and many more.
+
+These are the following features of Online Doctor Appointment System in PHP with Full Source Code
+Doctor
+
+Dashboard
+Manage Schedules
+Manage Patients Appointments
+Login and Logout
+Patient
+
+Register
+Login
+Manage Profile
+Manage Appointments
