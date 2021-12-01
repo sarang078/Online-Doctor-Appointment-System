@@ -1,0 +1,2 @@
+# Online-Doctor-Appointment-System
+The Online Doctor Appointment Booking System PHP and Mysql is a simple project developed using PHP, JavaScript, and CSS. The project contains an admin and user sides. The admin side manages all the management like managing schedules, patient records and manage the appointment time, manage treatment facilities, and so on. The admin has an important role in the management of this Online Doctor Appointment Booking System PHP and Mysql.
